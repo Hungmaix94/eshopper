@@ -35,8 +35,8 @@
       <file leaf-file-name="shop.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shop.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="607" column="76" selection-start-line="607" selection-start-column="76" selection-end-line="607" selection-end-column="76" />
+            <state relative-caret-position="81">
+              <caret line="662" column="24" selection-start-line="662" selection-start-column="24" selection-end-line="662" selection-end-column="24" />
               <folding>
                 <marker date="1470306403000" expanded="true" signature="23601:23689" ph="..." />
                 <marker date="1470306403000" expanded="true" signature="23629:23676" ph="..." />
@@ -185,6 +185,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mvc_project" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -222,12 +223,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470280529139</updated>
-      <workItem from="1470280530453" duration="2032000" />
+      <workItem from="1470280530453" duration="3200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2032000" />
+    <option name="totallyTimeSpent" value="3200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="242" y="155" width="1400" height="924" extended-state="0" />
@@ -280,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shop.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="607" column="76" selection-start-line="607" selection-start-column="76" selection-end-line="607" selection-end-column="76" />
+        <state relative-caret-position="81">
+          <caret line="662" column="24" selection-start-line="662" selection-start-column="24" selection-end-line="662" selection-end-column="24" />
           <folding>
             <marker date="1470306403000" expanded="true" signature="23601:23689" ph="..." />
             <marker date="1470306403000" expanded="true" signature="23629:23676" ph="..." />
