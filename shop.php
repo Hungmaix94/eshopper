@@ -605,8 +605,8 @@
 							</div>
 						</div>
 						<?php
-							$db= new PDO("mysql:host=localhost;dbname=mvc_project",'root','') or die('die mat r');
-							$db->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_WARNING);
+							$conn= new PDO("mysql:host=localhost;dbname=mvc-project",'root','') or die('die mat r');
+							$conn->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_WARNING);
 							
 						?>
 						<div class="pagination">
